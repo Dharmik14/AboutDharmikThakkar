@@ -27,20 +27,20 @@ const greeting = {
     Android/ iOS / Flutter / React Native."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1spXD98n2WjZNSG3tUF16RpEArQ2KGYnC/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/DharmikThakkar",
-  linkedin: "https://www.linkedin.com/in/DharmikThakkar/",
-  gmail: "DharmikThakkar70@gmail.com",
+  github: "https://github.com/Dharmik14",
+  linkedin: "https://www.linkedin.com/in/dharmik-thakkar-mobile-app-development/",
+  gmail: "dharmikthakkar14897@gmail.com",
   gitlab: "https://gitlab.com/DharmikThakkar",
   facebook: "https://www.facebook.com/Dharmik.Thakkar7",
   medium: "https://medium.com/@DharmikThakkar",
-  stackoverflow: "https://stackoverflow.com/users/10422806/Dharmik-Thakkar",
+  stackoverflow: "https://stackoverflow.com/users/11140751/dharmik-thakkar",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -50,10 +50,10 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "A Software Engineer with an expertise in Mobile App Development ",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive Front end / User Interfaces for your mobile applications"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
