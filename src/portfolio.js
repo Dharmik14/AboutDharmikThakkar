@@ -23,7 +23,7 @@ const greeting = {
   username: "Dharmik Thakkar",
   title: "Hi all, I'm Dharmik",
   subTitle: emoji(
-    "A passionate Mobile App Developer 🚀 having an experience of building robust and beautiful Mobile applications with Android/ iOS / Flutter / React Native."
+    "A passionate Mobile App Developer 🚀 having handsome experience building robust and beautiful Mobile applications with Android | iOS | Flutter | React Native."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1spXD98n2WjZNSG3tUF16RpEArQ2KGYnC/view?usp=sharing", // Set to empty to hide the button
@@ -65,56 +65,44 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Flutter",
+      fontAwesomeClassname: "fa-brands fa-flutter"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Android",
+      fontAwesomeClassname: "fa-brands fa-android"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "iOS",
+      fontAwesomeClassname: "fa-brands fa-apple"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "React Native",
+      fontAwesomeClassname: "fa-brands fa-react"
     },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
+     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "Dart",
+      fontAwesomeClassname: "fa-brands fa-dart-lang"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      skillName: "Java",
+      fontAwesomeClassname: "fa-brands fa-java"
+    },
+    {
+      skillName: "Swift",
+      fontAwesomeClassname: "fab fa-swift"
+    },
+    {
+      skillName: "Kotlin",
+      fontAwesomeClassname: "fab fa-npm"
+    },
+    {
+      skillName: "Database",
+      fontAwesomeClassname: "fa-solid fa-database"
     }
   ],
   display: true // Set false to hide this section, defaults to true
