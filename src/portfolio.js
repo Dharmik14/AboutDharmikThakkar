@@ -90,7 +90,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Java",
-      fontAwesomeClassname: "fa-brands fa-java"
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "Swift",
