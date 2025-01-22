@@ -66,19 +66,19 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fa-brands fa-flutter"
+      fontAwesomeClassname: "fab fa-flutter"
     },
     {
       skillName: "Android",
-      fontAwesomeClassname: "fa-brands fa-android"
+      fontAwesomeClassname: "fab fa-android"
     },
     {
       skillName: "iOS",
-      fontAwesomeClassname: "fa-brands fa-apple"
+      fontAwesomeClassname: "fab fa-apple"
     },
     {
       skillName: "React Native",
-      fontAwesomeClassname: "fa-brands fa-react"
+      fontAwesomeClassname: "fab fa-react"
     },
      {
       skillName: "firebase",
@@ -86,7 +86,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Dart",
-      fontAwesomeClassname: "fa-brands fa-dart-lang"
+      fontAwesomeClassname: "fab fa-dart-lang"
     },
     {
       skillName: "Java",
@@ -102,7 +102,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Database",
-      fontAwesomeClassname: "fa-solid fa-database"
+      fontAwesomeClassname: "fab fa-database"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -114,23 +114,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "NSIT University",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
-    {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Bachelors of Engineering in Computer",
+      duration: "May 2015 - April 2019",
     }
   ]
 };
@@ -162,29 +149,22 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Team Lead - Mobile App Development",
+      company: "FeroAi Freight Technologies LLP",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      date: "Nov 2021 – Present",
+      desc: "Spearhead the design, development, testing, and deployment of high-quality Flutter apps, ensuring seamless alignment with client objectives and timely delivery. Lead and inspire a dynamic mobile app team, collaborating with design and backend experts to craft innovative and scalable solutions. Drive technical excellence through strategic decision-making, code reviews, and shaping the team’s growth through hiring initiatives."
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
+      role: "Mobile App Developer",
+      company: "Mobio Solutions Private Ltd",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "March 2019 – Oct 2021",
+      desc: "Create comprehensive project scope and requirement documentation, delivering precise estimations for successful project execution. Expertly translate app designs into high-performance, visually captivating mobile apps using Native Android and Flutter frameworks. Proactively debug and resolve complex issues in existing projects, ensuring seamless integration with the latest OS releases for optimal performance."
     }
   ]
 };
