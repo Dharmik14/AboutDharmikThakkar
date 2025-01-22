@@ -23,8 +23,7 @@ const greeting = {
   username: "Dharmik Thakkar",
   title: "Hi all, I'm Dharmik",
   subTitle: emoji(
-    "A passionate Mobile App Developer 🚀 having an experience of building robust and beautiful Mobile applications with 
-    Android/ iOS / Flutter / React Native."
+    "A passionate Mobile App Developer 🚀 having an experience of building robust and beautiful Mobile applications with Android/ iOS / Flutter / React Native."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1spXD98n2WjZNSG3tUF16RpEArQ2KGYnC/view?usp=sharing", // Set to empty to hide the button
