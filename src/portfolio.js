@@ -66,7 +66,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fab fa-flutter"
+      fontAwesomeClassname: "fas fa-flutter"
     },
     {
       skillName: "Android",
@@ -102,7 +102,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Database",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fas fa-database"
     }
   ],
   display: true // Set false to hide this section, defaults to true
