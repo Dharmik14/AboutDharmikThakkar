@@ -62,11 +62,11 @@ const skillsSection = {
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
-
+  
   softwareSkills: [
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fas fa-flutter"
+      fontAwesomeClassname: "fa-brands fa-flutter"
     },
     {
       skillName: "Android",
@@ -86,7 +86,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Dart",
-      fontAwesomeClassname: "fab fa-dart-lang"
+      fontAwesomeClassname: "fa-brands fa-dart-lang"
     },
     {
       skillName: "Java",
