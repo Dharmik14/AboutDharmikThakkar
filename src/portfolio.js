@@ -49,14 +49,17 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A Software Engineer with an expertise in Mobile App Development ",
+  subTitle: "Got an idea I can turn into a robust Mobile Application",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your mobile applications"
+      "⚡ Develop beautiful & robust apps for Android & iOS devices from scratch"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Maintain an ongoing project for you. Fix or Repair that is Damaged"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Help you with the whole lifecycle that goes for developing "
+    ),
+    emoji(
+      "⚡ Brainstorm with you with your idea with a coffee"
     )
   ],
 
@@ -180,13 +183,13 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Some Cool Stuff that i worked on",
+  subtitle: "Dont forget to give a peeeek on this section",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "SkinAffairs",
+      projectDesc: "E-Commerce app exclusively for Beauty products",
       footerLink: [
         {
           name: "Visit Website",
@@ -197,15 +200,39 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Oraculus",
+      projectDesc: "App that uses ML for Palmistry",
       footerLink: [
         {
           name: "Visit Website",
           url: "http://nextu.se/"
         }
       ]
-    }
+    },
+     {
+      image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "SmartLot Tracker",
+      projectDesc: "App that uses Beacon & BLE for Indoor Navigation in Large spaces",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://saayahealth.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "Skin Plush",
+      projectDesc: "App that uses ML to detect moles on skin and compares for similarity for R&D purposes",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://saayahealth.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -222,7 +249,7 @@ const achievementSection = {
     {
       title: "Google Code-In Finalist",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "selected as Google Code-in Finalist from 4000 students from 77 different countries.",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -292,7 +319,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -311,7 +338,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -324,7 +351,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Dharmik-Thakkar-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -340,18 +367,17 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "DharmikThakkar70@gmail.com"
+  email_address: "dharmikthakkar14897@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
