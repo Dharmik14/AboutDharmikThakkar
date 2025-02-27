@@ -36,9 +36,9 @@ const socialMediaLinks = {
   github: "https://github.com/Dharmik14",
   linkedin: "https://www.linkedin.com/in/dharmik-thakkar-mobile-app-development/",
   gmail: "dharmikthakkar14897@gmail.com",
-  gitlab: "https://gitlab.com/DharmikThakkar",
-  facebook: "https://www.facebook.com/Dharmik.Thakkar7",
-  medium: "https://medium.com/@DharmikThakkar",
+  // gitlab: "https://gitlab.com/DharmikThakkar",
+  // facebook: "https://www.facebook.com/Dharmik.Thakkar7",
+  // medium: "https://medium.com/@DharmikThakkar",
   stackoverflow: "https://stackoverflow.com/users/11140751/dharmik-thakkar",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -125,7 +125,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -146,7 +146,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Team Lead - Mobile App Development",
