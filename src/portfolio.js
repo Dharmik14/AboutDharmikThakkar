@@ -253,7 +253,7 @@ const achievementSection = {
           name: "Certification Link",
           url: "https://www.credential.net/87e3ca0e-24d5-45cd-9397-aeffeacbaf87#acc.mjG7tzX2"
         }      ]
-    // },
+    }
     // {
     //   title: "Google Assistant Action",
     //   subtitle:
