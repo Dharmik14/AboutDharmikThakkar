@@ -194,7 +194,7 @@ const bigProjects = {
       //     url: "http://saayahealth.com/"
       //   }
         //  you can add extra buttons here.
-      ]
+      // ]
     },
     {
       // image: require("./assets/images/nextuLogo.webp"),
