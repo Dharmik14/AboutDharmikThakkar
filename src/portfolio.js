@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Mobile App Developer 🚀 having handsome experience building robust and beautiful Mobile applications with Android | iOS | Flutter | React Native."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1spXD98n2WjZNSG3tUF16RpEArQ2KGYnC/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1spXD98n2WjZNSG3tUF16RpEArQ2KGYnC/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -69,7 +68,7 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fa-brands fa-flutter"
+      fontAwesomeClassname: "fab fa-flutter"
     },
     {
       skillName: "Android",
@@ -89,7 +88,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Dart",
-      fontAwesomeClassname: "fa-brands fa-dart-lang"
+      fontAwesomeClassname: "fab fa-dart-lang"
     },
     {
       skillName: "Java",
