@@ -118,7 +118,6 @@ const educationInfo = {
   schools: [
     {
       schoolName: "NSIT University",
-      logo: require("./assets/images/nsit_logo.png"),
       subHeader: "Bachelors of Engineering in Computer",
       duration: "May 2015 - April 2019",
     }
