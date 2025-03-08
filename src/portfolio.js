@@ -152,7 +152,7 @@ const workExperiences = {
     {
       role: "Team Lead - Mobile App Development",
       company: "FeroAi Freight Technologies LLP",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      // companylogo: require("./assets/images/facebookLogo.png"),
       date: "Nov 2021 – Present",
       desc: "Spearhead the design, development, testing, and deployment of high-quality Flutter apps, ensuring seamless alignment with client objectives and timely delivery. Lead and inspire a dynamic mobile app team, collaborating with design and backend experts to craft innovative and scalable solutions. Drive technical excellence through strategic decision-making, code reviews, and shaping the team’s growth through hiring initiatives."
       // descBullets: [
@@ -163,7 +163,7 @@ const workExperiences = {
     {
       role: "Mobile App Developer",
       company: "Mobio Solutions Private Ltd",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      // companylogo: require("./assets/images/quoraLogo.png"),
       date: "March 2019 – Oct 2021",
       desc: "Create comprehensive project scope and requirement documentation, delivering precise estimations for successful project execution. Expertly translate app designs into high-performance, visually captivating mobile apps using Native Android and Flutter frameworks. Proactively debug and resolve complex issues in existing projects, ensuring seamless integration with the latest OS releases for optimal performance."
     }
@@ -187,49 +187,49 @@ const bigProjects = {
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "SkinAffairs",
-      projectDesc: "E-Commerce app exclusively for Beauty products",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
+      projectDesc: "E-Commerce app exclusively for Beauty products"
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: "http://saayahealth.com/"
+      //   }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      // image: require("./assets/images/nextuLogo.webp"),
       projectName: "Oraculus",
-      projectDesc: "App that uses ML for Palmistry",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
+      projectDesc: "App that uses ML for Palmistry"
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: "http://nextu.se/"
+      //   }
       ]
     },
      {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "SmartLot Tracker",
-      projectDesc: "App that uses Beacon & BLE for Indoor Navigation in Large spaces",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
+      projectDesc: "App that uses Beacon & BLE for Indoor Navigation in Large spaces"
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: "http://saayahealth.com/"
+      //   }
+      //   //  you can add extra buttons here.
+      // ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      // image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Skin Plush",
-      projectDesc: "App that uses ML to detect moles on skin and compares for similarity for R&D purposes",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
-      ]
+      projectDesc: "App that uses ML to detect moles on skin and compares for similarity for R&D purposes"
+      // footerLink: [
+      //   {
+      //     name: "Visit Website",
+      //     url: "http://saayahealth.com/"
+      //   }
+      //   //  you can add extra buttons here.
+      // ]
     },
   ],
   display: true // Set false to hide this section, defaults to true
@@ -246,8 +246,8 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "Google Play Store Listing Certification",
-      // image: require("./assets/images/codeInLogo.webp"),
-      // imageAlt: "Google Code-In Logo",
+      image: require("./assets/images/codeInLogo.webp"),
+      imageAlt: "Google Play Store Listing Certification",
       footerLink: [
         {
           name: "Certification Link",
