@@ -205,7 +205,7 @@ const bigProjects = {
       //     name: "Visit Website",
       //     url: "http://nextu.se/"
       //   }
-      ]
+      // ]
     },
      {
       // image: require("./assets/images/saayaHealthLogo.webp"),
