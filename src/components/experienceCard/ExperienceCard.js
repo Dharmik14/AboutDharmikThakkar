@@ -43,7 +43,8 @@ export default function ExperienceCard({cardInfo, isDark}) {
           ref={imgRef}
           src={cardInfo.companylogo}
           alt={cardInfo.company}
-          onLoad={() => getColorArrays()}
+          onLoad={() => console.log("Image Loaded")}
+          style={{ backgroundColor: "white", padding: "5px" }} 
         />
       </div>
       <div className="experience-text-details">
