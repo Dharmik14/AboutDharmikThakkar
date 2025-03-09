@@ -152,7 +152,7 @@ const workExperiences = {
     {
       role: "Team Lead - Mobile App Development",
       company: "FeroAi Freight Technologies LLP",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/fero_logo.png"),
       // date: "Nov 2021 – Present",
       desc: "Spearhead the design, development, testing, and deployment of high-quality Flutter apps, ensuring seamless alignment with client objectives and timely delivery. Lead and inspire a dynamic mobile app team, collaborating with design and backend experts to craft innovative and scalable solutions. Drive technical excellence through strategic decision-making, code reviews, and shaping the team’s growth through hiring initiatives."
       // descBullets: [
@@ -161,9 +161,9 @@ const workExperiences = {
       // ]
     },
     {
-      role: "Mobile App Developer",
+      role: "Sr. Mobile App Developer",
       company: "Mobio Solutions Private Ltd",
-      // companylogo: require("./assets/images/mobio_solutions_logo.png"),
+      companylogo: require("./assets/images/mobio_solutions_logo.png"),
       // date: "March 2019 – Oct 2021",
       desc: "Create comprehensive project scope and requirement documentation, delivering precise estimations for successful project execution. Expertly translate app designs into high-performance, visually captivating mobile apps using Native Android and Flutter frameworks. Proactively debug and resolve complex issues in existing projects, ensuring seamless integration with the latest OS releases for optimal performance."
     }
