@@ -58,7 +58,7 @@ const skillsSection = {
       "⚡ Help you with the whole lifecycle that goes for developing "
     ),
     emoji(
-      "⚡ Brainstorm with you with your idea with a coffee"
+      "⚡ Brainstorm & Coffee with your idea"
     )
   ],
 
@@ -163,7 +163,7 @@ const workExperiences = {
     {
       role: "Mobile App Developer",
       company: "Mobio Solutions Private Ltd",
-      // companylogo: require("./assets/images/quoraLogo.png"),
+      // companylogo: require("./assets/images/mobio_solutions_logo.png"),
       // date: "March 2019 – Oct 2021",
       desc: "Create comprehensive project scope and requirement documentation, delivering precise estimations for successful project execution. Expertly translate app designs into high-performance, visually captivating mobile apps using Native Android and Flutter frameworks. Proactively debug and resolve complex issues in existing projects, ensuring seamless integration with the latest OS releases for optimal performance."
     }
